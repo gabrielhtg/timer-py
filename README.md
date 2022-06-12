@@ -9,7 +9,7 @@ Berikut cara menggunakannya:
 2. Pastikan module pydub kalian sudah terpasang. Serta ffmpeg dan libavcode-extra juga sudah terpasang.
 3. Jalankan program ini.
 4. Masukkan jam, menit dan detiknya.
-5. Selamat Mencoba. 
+5. Selamat Mencoba.     
 
 ![screenshot](Screenshot%20from%202022-06-12%2015-55-47.png)
 
