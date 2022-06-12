@@ -1,6 +1,6 @@
 # Timer
 
-Ini adalah program yang dibuat dengan bahasa pemrograman python yang berfungsi sebagai timer.
+Ini adalah program yang dibuat dengan bahasa pemrograman python yang berfungsi sebagai timer. 
 
 ## How to use?
 
@@ -10,6 +10,8 @@ Berikut cara menggunakannya:
 3. Jalankan program ini.
 4. Masukkan jam, menit dan detiknya.
 5. Selamat Mencoba. :smile:
+
+![screenshot](Screenshot%20from%202022-06-12%2015-55-47.png)
 
 ## <b>About Me</b>
 

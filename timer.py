@@ -6,13 +6,10 @@ from pydub import AudioSegment
 from pydub.playback import play
 os.system('clear')
 
-try :
-    jam = int(input("Masukkan jamnya      : "))
-    menit = int(input("Masukkan menitnya    : "))
-    detik = int(input("Masukkan detiknya    : "))
+jam = int(input("Masukkan jamnya      : "))
+menit = int(input("Masukkan menitnya    : "))
+detik = int(input("Masukkan detiknya    : "))
 
-except :
-    print(Fore.RED + Style.BRIGHT + "\nInvalid input. Pastikan input yang kamu masukkan sudah benar!" + Style.RESET_ALL)
 
 if (menit > 60) or (detik > 60) or (menit < 0) or (jam < 0) or (detik < 0) :
     print(Fore.RED + Style.BRIGHT + "\nInvalid input. Pastikan input yang kamu masukkan sudah benar!" + Style.RESET_ALL)
